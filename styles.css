@@ -66,6 +66,7 @@ h3
     right: 12.5rem;
     top: 6.25rem;
     height: 3.625rem;
+    position: fixed;
 }
 a
 {
