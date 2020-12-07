@@ -11,6 +11,9 @@ body
     margin-bottom: 0px;
     text-align: center;
     font-family: 'Merriweather', serif;
+width: 100%;
+height: auto;
+min-width: 1000px
    
 }
 h1
