@@ -1,2 +1,2 @@
-# mysite2
-an upgraded, better looking version of the previous page.
+# portfolio1
+a basic webpage made out of HTML and CSS.
