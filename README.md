@@ -1,2 +1,2 @@
 # portfolio1
-a basic webpage made out of HTML and CSS.
+a webpage made out of HTML and CSS.
